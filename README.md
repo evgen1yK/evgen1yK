@@ -2,7 +2,7 @@
 #   Кузнецов Евгений | QA Engineer
 Я начинающий тестировщик
 
-завершил обучение на профессию инженер по тестированию в онлайн школе <a href="https://skillbox.ru/"> Skillbox.ru</a>\
+Завершил обучение на профессию инженер по тестированию в онлайн школе <a href="https://skillbox.ru/"> Skillbox.ru</a>\
 Навыки работы с:\
 <img alt="git" src="./img/git.svg" width="20" height="20"/>Git\
 <img alt="postman" src="./img/postman.svg" width="20" height="20"/>Postman\
@@ -13,3 +13,7 @@
 
 Изучаю Python для дальнейшего углубления в автоматизацию на данном яп.
 
+Контакты для связи:
+
+<a href="https://t.me/k0mb4t1k">Телеграм</a>\
+<a href="mailto:ea.kuznecov@mail.ru">Почта</a>
